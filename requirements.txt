@@ -1,0 +1,15 @@
+torch>=2.1
+numpy
+scipy
+scikit-learn
+h5py
+tifffile
+imagecodecs
+spectral
+matplotlib
+pillow
+bm3d
+bm4d
+hyde-images
+pytorch_wavelets
+setuptools<81
